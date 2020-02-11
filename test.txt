@@ -1,5 +1,3 @@
 a
 bbb
-e
-f
-g
+eee
