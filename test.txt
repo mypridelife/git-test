@@ -1,2 +1,1 @@
-this is first time , fix a bug
-this is bugFix 
+this is first time
