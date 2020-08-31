@@ -12,3 +12,4 @@ rebase issue2
 rebase issue3
 
 测试reset
+测试reset2
