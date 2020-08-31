@@ -10,5 +10,3 @@ master issue rebase3
 rebase issue
 rebase issue2
 rebase issue3
-
-添加一条信息
